@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Database (exclude scan history from git)
+scans.db
+
+# Generated reports
+reports/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
