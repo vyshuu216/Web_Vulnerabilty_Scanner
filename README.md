@@ -193,10 +193,11 @@ Grade Scale
 
 | Name                             | Email                                                                 | LinkedIn                                                              |
 | -------------------------------- | --------------------------------------------------------------------- | -----------------------------------------------------------------     |
+| **Samudrala Srinivasa Vyshnavi** | [svyshnavi.samudrala@gmail.com](mailto:svyshnavi.samudrala@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samudrala-vyshnavi-824862282/) |
+| **Abhinav Rama**                 | [abhinavrama2005@gmail.com](mailto:abhinavrama2005@gmail.com)         | [LinkedIn](https://www.linkedin.com/in/abhinav-rama-b44302304/)       |
 | **Rampelli Rithwik**             | [RampelliRithwik@gmail.com](mailto:RampelliRithwik@gmail.com)         | [LinkedIn](https://www.linkedin.com/in/rithwik-rampelli-2067612b2/)   |
 | **Kommidi Vishravas Reddy**      | [vishravasreddy@gmail.com](mailto:vishravasreddy@gmail.com)           | [LinkedIn](https://www.linkedin.com/in/vishravasreddy-kommidi-997463288/)|
-| **Abhinav Rama**                 | [abhinavrama2005@gmail.com](mailto:abhinavrama2005@gmail.com)         | [LinkedIn](https://www.linkedin.com/in/abhinav-rama-b44302304/)       |
-| **Samudrala Srinivasa Vyshnavi** | [svyshnavi.samudrala@gmail.com](mailto:svyshnavi.samudrala@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samudrala-vyshnavi-824862282/) |
+
 
 ---
 
